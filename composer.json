@@ -1,0 +1,16 @@
+{
+    "name": "melaraby/vcard",
+    "description": "Vcard VCF",
+    "authors": [
+        {
+            "name": "Mohammed Elaraby",
+            "email": "mohammed.elaraby@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.3",
+        "ext-json": "*",
+        "ext-curl": "*"
+    }
+}
